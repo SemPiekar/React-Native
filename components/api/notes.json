@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Bands",
+      "description": "Fleetwood Mac, Muse, Queen, The Beatles, The Rolling Stones, The Who, U2"
+    },
+    {
+      "id": 2,
+      "title": "Songs",
+      "description": "Bohemian Rhapsody, Don't Stop Me Now, Hey Jude, Hotel California, Imagine, Let It Be, Like A Rolling Stone, Paint It Black, Smells Like Teen Spirit, Stairway To Heaven, Sweet Child O' Mine, Sympathy For The Devil, We Will Rock You, Yesterday "
+    },
+    {
+      "id": 3,
+      "title": "Albums",
+      "description": "Abbey Road, Appetite For Destruction, Dark Side Of The Moon, Nevermind, Sgt. Pepper's Lonely Hearts Club Band, The Joshua Tree, The Wall"
+    },
+    {
+      "id": 4,
+      "title": "My Favorite Songs",
+      "description": "Godzilla, November Rain, Give a little Bit, Easy Lover, Shine on you crazy diamond, Another Brick in the Wall, Unnatural Selection, Sadness, Narcotic, Kickstart My Heart, In the Air Tonight, Stay the Night, Go Your Own Way, Graceland, Enter Sandman"
+    }
+  ]
+}
